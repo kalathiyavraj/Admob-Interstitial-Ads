@@ -1,0 +1,3 @@
+include ':Admob Interstitial Ads'
+include ':app'
+rootProject.name = "Admob Interstitial Ads"
